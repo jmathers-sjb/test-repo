@@ -92,6 +92,7 @@ body {
 }
 
 .btn.operator {
-  background: #0a84ff;
+  background: #30d158;
   color: #fff;
+  border-radius: 16px;
 }
